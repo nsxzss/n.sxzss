@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>n.sxzss</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(to right, #8e44ad, #c0392b); 
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            color: white;
+            text-align: center;
+        }
+
+        .rainbow-text {
+            background: linear-gradient(to right, blue, black, blue, black); 
+            -webkit-background-clip: text;
+            color: transparent;
+            display: inline-block;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        a {
+            color: greenyellow; 
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <h2 class="rainbow-text">"O TEU SORRISO É O PARAÍSO..."</h2>
+    <p>Recentemente conheci uma menina muito incrível enquanto estudava, ela tem um sorriso incrivelmente maravilhoso e lindo... eu sou suspeito para falar mas tenho que admitir que fico perdido toda vez que vejo aquele sorriso lindo.</p>
+    <p>Essa eu dedico para você princesa <a href="https://www.youtube.com/watch?v=fGPcm1I7U90">Clique aqui para mais detalhes</a></p>
+    </a>
+</body>
+</html>
